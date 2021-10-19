@@ -4,7 +4,7 @@
   <div style="display: flex">
     <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div><br>
   
   ### 👌 Mais domínio em
@@ -18,7 +18,7 @@
 <div align="center" style="display: inline-block">
   <a href="https://github.com/RianVitor26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rianvitor26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=10&theme=dracula"/>
 </div>
   
   ## 🔥 Habilidades
@@ -26,7 +26,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -38,7 +37,7 @@
   Sou uma pessoa interessada em descobrir o poder que a tecnologia nos proporciona, bucando evoluir constantemente.
   Atualmente, estou estudando desenvolvimento de forma fullStack e entendendo como funciona o mundo da programação
   no lado do servidor e no lado do cliente. Busco ser bem organizado, tanto codando, quanto fora do código. Para isso,
-  venho tendo interesse em aprender conceitos para melhorar o gerenciamento do código e do projeto como um todo. 
+  sempre uso ferramentas que possam me auxiliar nisso.
   <br>
   
  ## Contatos
