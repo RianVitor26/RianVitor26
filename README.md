@@ -1,4 +1,5 @@
 ## Olá, eu sou o Rian, seja bem-vindo(a) 👋
+![2109964](https://user-images.githubusercontent.com/77061521/138830730-3bf38a79-03e2-478a-9ba5-211a5119d470.jpg)
 
 ### 📚 Estudando
   <div style="display: flex">
