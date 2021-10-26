@@ -1,7 +1,5 @@
 ## Olá, eu sou o Rian, seja bem-vindo(a) 👋
-![2109964](https://user-images.githubusercontent.com/77061521/138830730-3bf38a79-03e2-478a-9ba5-211a5119d470.jpg)
 
-### 📚 Estudando
   <div style="display: flex">
     <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
