@@ -17,8 +17,8 @@
 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/RianVitor26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rianvitor26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rianvitor26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=10&theme=city_lights"/>
 </div>
   
   ## 🔥 Habilidades
@@ -29,9 +29,9 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
+
   
    ## Sobre mim
   Sou uma pessoa interessada em descobrir o poder que a tecnologia nos proporciona, bucando evoluir constantemente.
