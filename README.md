@@ -1,11 +1,12 @@
-## Olá, eu sou o Rian, seja bem-vindo(a) 👋
+## Olá, eu sou o Rian, seja bem-vindo(a) 👋 <br>
 
+### Estou estudando no momento
   <div style="display: flex">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
     <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div><br>
   
-  ### 👌 Mais domínio em
+  ### Tenho mais domínio em:
   <div style="display: flex">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=10&theme=city_lights"/>
 </div>
   
-  ## 🔥 Habilidades
+  ## Habilidades
 <div style="display: flex"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -45,9 +46,6 @@
   <a href = "mailto:rianvitorlhe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rian-vitor-a036aa202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
- 
-  ## Trilha de estudos
   
   ![Snake animation](https://github.com/Rianvitor26/Rianvitor26/blob/output/github-contribution-grid-snake.svg)
   <br>
