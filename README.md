@@ -6,10 +6,10 @@
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   </div><br>
   
-<div align="center" style="display: inline-block">
+<div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rianvitor26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=10&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=9&theme=city_lights"/>
 </div>
   
   ### Tecnologias:
