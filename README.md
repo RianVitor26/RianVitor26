@@ -1,5 +1,5 @@
 ~~~javascript
-console.log("Hello world!")
+console.log("Hello, world!")
 ~~~ 
 
 
@@ -33,7 +33,7 @@ Back-end development<br><br>
   
  ### Contact 🔎: 
 <div>
-  <a href="mailto:rianvitorlhe@gmail.com">
+  <a href="mailto:rianvitorlhe@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rian-vitor-a036aa202/" target="_blank">
