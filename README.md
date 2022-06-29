@@ -4,7 +4,7 @@ console.log("Hello, world!")
 
 
 ### Focused 🎯: 
-Back-end development<br><br>
+Web development<br><br>
   
   <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
