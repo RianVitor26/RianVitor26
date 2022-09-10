@@ -1,8 +1,3 @@
-~~~javascript
-console.log("Hello, world!")
-~~~ 
-
-
 ### Focused 🎯: 
 Web development<br><br>
   
@@ -26,6 +21,7 @@ Web development<br><br>
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <br><br>
   
    ### About me 🧑🏼‍💻: 
