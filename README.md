@@ -2,8 +2,7 @@
 Web development<br><br>
 
 ### My links
-[Go to page](rv26links.vercel.app
-)
+[Go to page](https://rv26links.vercel.app/)
 
   
   <div align="center" style="display: flex">
