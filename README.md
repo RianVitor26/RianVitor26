@@ -1,7 +1,8 @@
 🔗 [My links](https://rv26links.vercel.app/)
 
 ### Focused 🎯: 
-Web development<br><br>
+I am currently studying node at udemy and developing my portfolio website with React
+
 
   <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
