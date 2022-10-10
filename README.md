@@ -1,6 +1,6 @@
-🔗 [My links](https://rv26links.vercel.app/)
+🔗 [My links with easy access](https://rv26links.vercel.app/)
 
-### Focused on web development
+### Focused on web development 🎯
 
   <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=10&theme=city_lights"/>
 </div><br>
   
-  ### Technologies I'm using 🚀:
+  ### Technologies I'm using 🚀
   <div style="display: flex">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,7 +26,7 @@
   </div>
 <br><br>
   
- ### Contact 🔎: 
+ ### Contact 🔎 
 <div>
   <a href="mailto:rianvitor26pro@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
