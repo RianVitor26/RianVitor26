@@ -1,6 +1,6 @@
 🔗 [My links with easy access](https://rv26links.vercel.app/)
 
-### Focused on becoming a complete JavaScript Developer 🎯
+### Focused on becoming a Full Stack web Developer 🎯
 
   <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
