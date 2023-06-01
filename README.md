@@ -3,7 +3,7 @@
 <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianvitor26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=6&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=4&theme=city_lights"/>
 </div><br>
   
   ## Technologies I'm using and learning 🚀
@@ -18,6 +18,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 <br><br>
   
  ### Contact 🔎 
