@@ -1,9 +1,9 @@
-## Studying to become a Full-Stack JavaScript Developer
+## Studying to become a Full-Stack Developer
 
 <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianvitor26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianvitor26&layout=compact&langs_count=6&theme=city_lights"/>
 </div><br>
   
   ## Technologies I'm using and learning 🚀
