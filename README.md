@@ -1,5 +1,3 @@
-## Studying to become a Full-Stack Developer
-
 <div align="center" style="display: flex">
   <a href="https://github.com/RianVitor26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianvitor26&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
@@ -9,13 +7,11 @@
   ## Technologies I'm using and learning 🚀
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
    <br><br>
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   <br><br>
  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <br><br>
   
  ### Contact 🔎 
