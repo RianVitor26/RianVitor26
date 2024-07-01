@@ -22,11 +22,6 @@
   </a>
 </div>
 
-<br>
- <a href="https://rianvitor26dos-santos-de-almeida.vercel.app/" target="_blank">
-      Site portfólio
-  </a>
-  
 
 
 
